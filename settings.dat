@@ -1,0 +1,17 @@
+# port name
+port=/dev/ttyS0
+
+# port baudrate: 9600/115200/etc
+baud=9600
+
+# parity: odd/even/none
+parity=none
+
+#databits: 5/6/7/8
+databits=8
+
+#stopbit: 1/2
+stopbits=2
+
+# flow control: hard/soft/none/ps485
+flow=hard
